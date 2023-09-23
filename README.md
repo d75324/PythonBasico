@@ -36,3 +36,7 @@ Escribir un programa que invierta una cadena de palabras, por ejemplo, convierta
 8. ej8_función_listas_random
 Crear una función que genere una lista de N números random acotada entre 0 y 77, con N definido
 por el usuario.
+
+9. ej9_strings_expresiones_regulares
+Escribir una función que reciba una cadena de texto por parámetro y que devuelva la suma de todos los números que haya en esa cadena.
+Por ejemplo: para la cadena de texto: "Tengo 5 gatos con 4 patas cada uno. Uno tiene 12 años." debería devolver el número 21.
