@@ -40,3 +40,6 @@ por el usuario.
 9. ej9_strings_expresiones_regulares
 Escribir una función que reciba una cadena de texto por parámetro y que devuelva la suma de todos los números que haya en esa cadena.
 Por ejemplo: para la cadena de texto: "Tengo 5 gatos con 4 patas cada uno. Uno tiene 12 años." debería devolver el número 21.
+
+10. ej_10_nuevo_pin
+Escribir un código que verifique el pin (pinok=1234) de un cajero automático de Banco de Python. El usuario podrá ingresar su código hasta 4 veces; superado ese límite, se mostrará un mensaje de 'límite excedido'.
