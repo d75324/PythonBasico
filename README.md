@@ -43,3 +43,6 @@ Por ejemplo: para la cadena de texto: "Tengo 5 gatos con 4 patas cada uno. Uno t
 
 10. ej_10_nuevo_pin
 Escribir un código que verifique el pin (pinok=1234) de un cajero automático de Banco de Python. El usuario podrá ingresar su código hasta 4 veces; superado ese límite, se mostrará un mensaje de 'límite excedido'.
+
+11. ej_11-ordenar_tuplas
+Hacer un programa que ordene una lista de tuplas. Cada tupla tiene dos elementos. La lista debe quedar ordenada de mayor a menor por el segundo elemento de cada tupla. Hacer una versión del mismo programa usando la función lambda.
