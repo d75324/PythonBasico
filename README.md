@@ -46,3 +46,11 @@ Escribir un código que verifique el pin (pinok=1234) de un cajero automático d
 
 11. ej_11-ordenar_tuplas
 Hacer un programa que ordene una lista de tuplas. Cada tupla tiene dos elementos. La lista debe quedar ordenada de mayor a menor por el segundo elemento de cada tupla. Hacer una versión del mismo programa usando la función lambda.
+
+12. ej_12-alargar_la_lista_mas_corta
+Dadas dos listas f1 y f2 con formadas por numeros enteros, completar la lista menor, hasta que las dos queden del mismo largo.
+No se consideran listas con la misma cantidad de términos.
+
+Ejemplo:
+f2 = [9,9,9,9,9,9,9,7,7,7,7,7,7,7]
+f1 = [3,3,3,3]
