@@ -1,13 +1,14 @@
-# PythonBasico
- Basicos de Python
+![Python Funciones](/python_frame.png){width='100px'}
+
+
+## Ejercicios de Python Básicos
+
+# Funciones
 
 1. ej1_pedir_datos
-Escriba un programa que pida por teclado al usuario su NOMBRE, EDAD y su ALTURA en metros y muestre los datos en los siguientes 3 formatos:
-1-	El usuario NOMBRE, tiene EDAD años y mide ALTURA metros.
-2-	El usuario NOMBRE tiene EDAD años y mide ALTURA centímetros.
-3-	El usuario NOMBRE tiene EDAD años y mide ALT metros y URA centímetros.
-Ejemplos: El usuario Juan tiene 44 años y mide 1.85 metros.
-El usuario Juan tiene 44 años y mide 1 metro y 85 centímetros.
+Ingresar usuarios por nombre, edad y altura en centímetros. La funcion debe mostrar los datos en una linea con el formato:
+    - El usuario NOMBRE tiene EDAD años y mide ALT metros y URA centímetros.
+y contemplar que el Usuario pueda medir mas de 2 metros o menos de 1, en cuyo caso el mensaje se deberá ajustar.
 
 2. ej2_listar_numeros
 Escribir un código que pida un número entero N al usuario entre 10 y 20 y muestre en pantalla todos los números enteros entre el 1 y el N. Después, haga que muestre todos los números enteros entre el 30 y el N y finalmente la misma lista en orden inverso.
