@@ -1,8 +1,11 @@
 import re
 
-# Escribir una función que reciba una cadena de texto por parámetro y que devuelva la suma de todos los
-# números que haya en esa cadena. Por ejemplo: para la cadena de texto:
-# "Tengo 5 gatos con 4 patas cada uno. Uno tiene 12 años." debería devolver el número 21.
+'''
+Escribir una función que reciba una cadena de texto por parámetro y que devuelva la suma de todos los
+números que haya en esa cadena. Por ejemplo: para la siguiente cadena de texto:
+"Tengo 5 gatos con 4 patas cada uno. Uno tiene 12 años." debería devolver el número 21.
+'''
+
 cad = "Tengo 5 gatos con 4 patas cada uno. Uno tiene 12 años."
 print (cad)
 
