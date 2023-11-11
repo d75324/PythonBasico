@@ -1,6 +1,8 @@
-# Ejercicio: dadas dos listas f1 y f2 con formadas por numeros enteros, completar la lista menor,
-# hasta que las dos queden del mismo largo.
-# Si son iguales, no pasa naranja.
+'''
+Ejercicio: dadas dos listas f1 y f2 con formadas por numeros enteros,
+completar la lista menor hasta que las dos queden del mismo largo.
+Si las listas son de igual longitudo, no es requerida ninguna acción.
+'''
 
 f2 = [9,9,9,9,9,9,9,7,7,7,7,7,7,7]
 f1 = [3,3,3,3]
