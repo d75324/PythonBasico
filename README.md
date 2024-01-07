@@ -1,4 +1,4 @@
-![Python Funciones](/python_frame.png){width='100px'}
+![Python Funciones](/python_frame.png)
 
 
 ## Ejercicios de Python Básicos
